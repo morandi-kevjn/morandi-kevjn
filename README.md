@@ -37,7 +37,7 @@ Here are some of my highlighted repositories:
 Feel free to reach out or connect with me:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/kevjn-morandi-924110215/)
-- 📧 Email: kevjn.morandi@gmail.com
+- 📧 kevjn.morandi@gmail.com
 
 ---
 
