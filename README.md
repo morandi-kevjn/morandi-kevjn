@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Kevjn Morandi
 
 🎯 ** Software Enginerr ** based in Italy 🇮🇹
-🌐 [LinkedIn](https://www.linkedin.com/in/kevjn-morandi-924110215/) | [GitHub](https://github.com/morandi-kevjn)
+🌐 [LinkedIn](https://www.linkedin.com/in/kevjn-morandi-924110215/)
 
 --
 
