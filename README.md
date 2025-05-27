@@ -9,8 +9,7 @@
 
 - **Languages:** Python, C#, Typescript
 - **Tools & Frameworks:** .NET, Django, VueJs, Git, GitHub
-- **Interests:** Algorithms, Clean Code, Data Structure, Lifelong Learner
-- **Hobby:** Books, Sports
+- **Interests:** Algorithms, Data Structures, Economy, Lifelong Learner, Books, Sports
 
 ---
 
