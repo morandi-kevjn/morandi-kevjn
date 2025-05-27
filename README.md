@@ -1,8 +1,6 @@
 ## 👋 Hi there, I'm Kevjn Morandi
 
 🎯 ** Software Enginerr ** based in Italy 🇮🇹
-💼 Currently at ** Felappi S.R.L **
-🎓 Alum of **IIS Cerebotani**  
 🌐 [LinkedIn](https://www.linkedin.com/in/kevjn-morandi-924110215/) | [GitHub](https://github.com/morandi-kevjn)
 
 --
