@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Kevjn Morandi
+## 👋 Hi there, I'm Kevjn Morandi
 
 🎯 ** Software Enginerr ** based in Italy 🇮🇹
 💼 Currently at ** Felappi S.R.L **
