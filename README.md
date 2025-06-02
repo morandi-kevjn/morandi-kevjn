@@ -17,6 +17,7 @@
 
 Here are some of my highlighted repositories:
 
+- [PhysicsSim](https://github.com/morandi-kevjn/PhysicsSim): A physics simulator of particle and gravity in C#.
 - [01-Binary-Search](https://github.com/morandi-kevjn/01-Binary-Search): Implementation of binary search in Python.
 - [Blackjack](https://github.com/morandi-kevjn/Blackjack): A Python-based Blackjack game from FreeCodeCamp course.
 - [Online-Marketplace](https://github.com/morandi-kevjn/Online-Marketplace): A Python project simulating an online marketplace.
