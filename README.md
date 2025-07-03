@@ -8,8 +8,8 @@
 ## 🛠️ Tech Stack
 
 - **Languages:** Python, C#, Typescript, Javascript, MySql
-- **Tools & Frameworks:** .NET, Django, VueJs, Git, GitHub, Docker
-- **Interests:** Algorithms, Data Structures, Economy, Lifelong Learner, Books, Sports
+- **Tools & Frameworks:** .NET, Django, VueJs, Git, GitHub, Docker, Pandas, Numpy, Polars, Tailwind
+- **Interests:** Algorithms, Data Structures, Architecture, Microservices, Economy, Lifelong Learner, Books, Sports
 
 ---
 
