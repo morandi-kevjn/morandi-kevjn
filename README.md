@@ -25,12 +25,6 @@ Here are some of my highlighted repositories:
 
 ---
 
-## 📈 GitHub Stats
-
-![Kevjn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=morandi-kevjn&show_icons=true&theme=default)
-
----
-
 ## 📫 Let's Connect
 
 Feel free to reach out or connect with me:
