@@ -31,6 +31,7 @@ Feel free to reach out or connect with me:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/kevjn-morandi-924110215/)
 - 📧 kevjn.morandi@gmail.com
+- https://justmkportfolio-rk1epuevo-kevjn-morandis-projects.vercel.app/
 
 ---
 
