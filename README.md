@@ -41,6 +41,3 @@ Clean Architecture
 State Machines
 Workflow Orchestration
 
----
-
-## Featured Projects
